@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Web Developer</h3>
 
 <h3 align="left">About me:</h3>
-  <p align="left"> Enrolled in college to be a software engineer, I discovered that for me, web development is the ideal step towards that. Since then, my interest in building websites and developing fullstack applications</p>
+  <p align="left"> Enrolled in college to be a software engineer, I discovered that for me, web development is the ideal step towards that. Since then, my interest in building websites and developing fullstack applications.</p>
 
 
 <h3 align="left">Connect with me:</h3>
