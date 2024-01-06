@@ -5,7 +5,9 @@
 </div>
 
 <h3 align="left">About Me:</h3>
-<p align="left">I'm currently enrolled in college pursuing a career as a software engineer. My journey led me to discover a passion for web development, and I've been immersed in building websites and developing full-stack applications ever since.</p>
+<p align="left">Software engineer with over 1.5 years of hands-on experience in the development and maintenance of robust software applications.
+Proficient in designing, coding, and debugging across diverse technologies. Demonstrated ability to thrive in collaborative environments, emphasizing a strong commitment to delivering high-quality results.
+</p>
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
