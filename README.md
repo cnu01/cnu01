@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
-<h3 align="center">A passionate Full-Stack Web Developer</h3>
+<h3 align="center">A passionate Software Development Engineer</h3>
 <div align="center">
 <img width="100%" height = "250px" src="https://media-exp1.licdn.com/dms/image/C4D1BAQHK_XcVi1f4MQ/company-background_10000/0/1607639630421?e=2159024400&v=beta&t=ZI9D9Jd0gC4tuy0c-QC_dXXmQ36-TGcxR1BsWH0YuXA" alt="cover" />
 </div>
@@ -13,7 +13,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cnu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cnu01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/cnu01" target="blank"></a><img     height="30" width="40" align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'> 
+<a href="https://twitter.com/srinivas_004" target="blank">
+  <img  height="30" width="40" align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>
+  </a>
 </p>
 <!-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cnu01" height="30" width="40" /> -->
 
