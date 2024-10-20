@@ -1,29 +1,69 @@
-<h1 align="center">Hi there! 👋 I'm Srinivas</h1>
-<h3 align="center">Passionate Software Development Engineer</h3>
-<div align="center">
-  <img width="100%" height="250px" src="https://media-exp1.licdn.com/dms/image/C4D1BAQHK_XcVi1f4MQ/company-background_10000/0/1607639630421?e=2159024400&v=beta&t=ZI9D9Jd0gC4tuy0c-QC_dXXmQ36-TGcxR1BsWH0YuXA" alt="cover" />
-</div>
+###### 👋 Hi, I'm Srinivas Vallala
 
-<h3 align="left">About Me:</h3>
-<p align="left">Software engineer with over 1.5 years of hands-on experience in the development and maintenance of robust software applications.
-Proficient in designing, coding, and debugging across diverse technologies. Demonstrated ability to thrive in collaborative environments, emphasizing a strong commitment to delivering high-quality results.
-</p>
+<sub>**Lead Software Engineer | Full Stack Developer | MERN Stack | AWS**</sub>
 
-<h3 align="left">Connect with Me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/cnu01" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cnu01" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/srinivas_004" target="blank">
-    <img  height="30" width="40" align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>
-  </a>
-</p>
+<sub>**🔧 I'm a dedicated full-stack developer with over 2.5 years of experience, specializing in building scalable, high-performance web applications. I focus on delivering seamless user experiences through both **frontend** and **backend** development while optimizing system performance and security.**</sub>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
+
+###### 🌟 About Me
+- 💻 <sub>**Expertise**: Full-stack development using the **MERN stack** (MongoDB, Express, React, Node.js) and cloud infrastructure on **AWS**.</sub>
+- 🔧 <sub>**Leadership**: Led cross-functional teams and ensured smooth project delivery during management transitions.</sub>
+- 📈 <sub>**Achievements**:</sub>
+    - <sub>Optimized API performance </sub>
+    - <sub>Reduced manual processes </sub>
+    - <sub>Improved deployment time using CI/CD pipelines.</sub>
+- 🛡️ <sub>**Security Focused**: Implemented role-based access controls and enhanced security protocols to ensure data integrity and system reliability.</sub>
+
+---
+
+###### 🚀 Technical Skills
+| <sub>**Languages**</sub>  | <sub>**Frontend**</sub>       | <sub>**Backend**</sub>        | <sub>**Tools**</sub>          | <sub>**Other**</sub>            |
+| -------------- | ------------------ | ------------------ | ------------------ | -------------------- |
+| <sub>JavaScript</sub>     | <sub>React, Material UI</sub>  | <sub>Node.js, Express</sub>   | <sub>Git, Bitbucket,</sub>    | <sub>Data Structures</sub>      |
+| <sub>Java (Beginner)| HTML, CSS</sub>           | <sub>MongoDB, AWS (S3, EC2)</sub> | <sub>VSCode, Jira, Postman</sub> | <sub>CI/CD (Jenkins), Npm/Yarn</sub> |
+
+---
+
+###### 🛠️ Key Projects
+
+###### 💼 **CRM & ERP Systems**
+- <sub>**Project Description**: Developed and automated Customer Relationship Management (CRM) and Enterprise Resource Planning (ERP) systems to streamline business processes.</sub>
+- <sub>**Frontend**: Designed user-friendly, responsive interfaces using **React** and **Material UI**, ensuring an intuitive user experience for business users.</sub>
+- <sub>**Backend**: Integrated payment gateways like **Pine Labs** and **Cashfree**, automating manual payment processes and reducing operational overhead by **30%**.</sub>
+- <sub>**Security**: Implemented role-based access controls, ensuring secure access to sensitive data and features based on user roles.</sub>
+
+###### 📊 **Interactive Dashboards**
+- <sub>**Project Description**: Built real-time data dashboards to provide actionable insights for sales, design, and operations teams.</sub>
+- <sub>**Frontend**: Developed the dashboard UI using **React** and **Material UI**, ensuring data visualizations were easy to interpret and interact with.</sub>
+- <sub>**Backend**: Created backend services using **Node.js** and **MongoDB** to handle large volumes of data, applying aggregation techniques to ensure optimal performance.</sub>
+- <sub>**DevOps**: Deployed the dashboards on **AWS EC2** and ensured they were highly available and scalable.</sub>
+
+###### 📦 **Material Tracking & Snag Tool**
+- <sub>**Project Description**: Built a full-stack application to track materials and manage damaged items (snags) during transportation.</sub>
+- <sub>**Frontend**: Created a responsive web interface using **React** and **Material UI** for easy tracking and reporting of materials across different stages of the supply chain.</sub>
+- <sub>**Backend**: Developed REST APIs with **Node.js** and **MongoDB** for tracking inventory in real time, with automated reporting for damaged materials.</sub>
+- <sub>**Barcode Integration**: Integrated barcode scanning for fast and accurate inventory management, improving scanning efficiency by **20%**.</sub>
+
+###### 🎨 **Rendering Software Optimization**
+- <sub>**Project Description**: Worked on optimizing an internal rendering tool used for visualizing design assets, reducing overall rendering times.</sub>
+- <sub>**Backend Optimization**: Refactored backend services to improve the efficiency of rendering processes by leveraging caching and pagination techniques.</sub>
+- <sub>**API Performance**: Improved API response times for rendering tasks by **50%**, leading to faster processing and quicker feedback loops.</sub>
+
+###### 📦 **Barcode Scanning Optimization**
+- <sub>**Project Description**: Enhanced the barcode scanning process for a material tracking system.</sub>
+- <sub>**Backend**: Optimized the backend services to handle large volumes of barcode data efficiently.</sub>
+- <sub>**Frontend**: Developed a streamlined UI for barcode scanning, ensuring faster input and reduced user errors.</sub>
+
+---
+
+###### ⚡ Fun Fact
+<sub>I enjoy optimizing both **backend systems** and **frontend interfaces**, creating a balance between performance, security, and user experience. Always on the lookout for ways to improve!</sub>
+
+---
+
+###### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cnu01/) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/cnu01) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=internet-explorer)](https://srinivas-vallala.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:srinivasvallala01@gmail)
